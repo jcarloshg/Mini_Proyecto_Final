@@ -1,0 +1,12 @@
+module HelloApp
+{
+  interface Hello
+  {
+  string sayHello(in string mensaje);
+  string operacionMat(in string operacion);
+  void mandarMensaje(in string mensaje);
+  string checarUltimoMsj();
+  void mandarArchivo(in string archivo);
+  oneway void shutdown();
+  };
+};
