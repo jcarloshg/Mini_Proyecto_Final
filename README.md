@@ -3,4 +3,8 @@
 
 integrantes  
 Jose Carlos Huerta Garcia  
-Luis David Hernández
+Luis David Hernández  
+  
+Para poder correr iniciar este comando desde la carpeta src  
+**start orbd –ORBInitialPort 1050**
+
