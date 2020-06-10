@@ -1,5 +1,5 @@
-# Mini_Proyecto_Final
-**Mini Proyecto Final con Corba**.
+# Mini Proyecto Final con Corba     
+Simulación de mensajería instantánea y calculadora usnado IDL.
 
 integrantes  
 Jose Carlos Huerta Garcia  
