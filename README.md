@@ -6,5 +6,5 @@ Jose Carlos Huerta Garcia
 Luis David Hernández  
   
 Para poder correr iniciar este comando desde la carpeta src  
-**start orbd –ORBInitialPort 1050**
+`start orbd –ORBInitialPort 1050`.
 
