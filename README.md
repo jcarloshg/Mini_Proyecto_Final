@@ -3,4 +3,4 @@
 
 integrantes  
 Jose Carlos Huerta Garcia  
-Luis David Hernandez
+Luis David Hernández
